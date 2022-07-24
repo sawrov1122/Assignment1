@@ -1,0 +1,256 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+   
+    
+}
+.fexiable{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.font-style{
+    font-size: 50px;
+    font-weight: 100%;
+    padding-inline: 200px;
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+.parragraph-style{
+    font-size: 20px;
+    text-align: center;
+    padding-inline: 200px;
+   color: blanchedalmond;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(17, 0, 255);
+    color: white;
+    font-weight: 700;
+   padding: 20px 30px;
+    border-radius: 10px;
+    margin-left: 45%;
+    
+    margin-top: 1%;
+    display: inline-block;
+    
+}
+.background-img{
+    background-image: url(images/donation1.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   padding-bottom: 150px;
+  
+}
+.donate-style{
+    font-size: 50px;
+    font-weight: 100%;
+    margin-left: 10%;
+    
+    text-align: center;
+    color: black;
+}
+.parragraph-donate{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 10%;
+   color: rgb(13, 12, 11);
+}
+.div1 {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+   color: black;
+    margin-left: 25%;
+    margin-right: 2%;
+    background-color: aliceblue;
+  }
+  
+  .div2 {
+    width: 120px;
+    height: 100px;  
+    padding: 5px;
+    border: 2px solid rgb(58, 11, 202);
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(34, 0, 255);
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgb(239, 215, 219);
+  }
+  .div3 {
+    width: 100px;
+    height: 100px;  
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color:black;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: aliceblue;
+  }
+  .div4 {
+    width: 100px;
+    height: 100px;  
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color:black;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: aliceblue;
+  }
+  .div5 {
+    width: 100px;
+    height: 100px;  
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color:black;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: aliceblue;
+  }
+  .w3-font{
+    position: absolute;
+    font-size: 20px;
+    color: black;
+
+    margin-left: 40%;
+
+    color: gray;
+  }
+  .w3-input{
+    width: 100px;
+    height: 70px;
+    border: none;
+    border-bottom: 2px solid silver;
+   padding-left: 250%;
+   margin-left: 300%;
+   font-size: 20px;
+    color: black;
+    
+  }
+  .link-button-1{
+    text-decoration: none;
+    background-color: rgb(38, 0, 255);
+    color: white;
+    font-weight: 700;
+   padding: 10px 30px;
+    border-radius: 10px;
+    margin-left: 400%;
+    
+    margin-top: 20%;
+    display: inline-block;
+
+  }
+  .half-width{
+    width: 50%;
+    
+    margin-top: 5%;
+    padding-left: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px rgb(205, 50, 78);
+    border-radius: 10px;
+  }
+  .plan-style{
+    margin-top: 5%;
+    font-size: 40px;
+    text-align: center;
+  }
+  .text-style{
+    text-align: center;
+    font-size: 20px;
+    
+
+  }
+  #food-family{
+    background-color: rgb(227, 233, 231);
+  }
+  #shelter-family{
+    background-color: rgb(242, 229, 231);
+  }
+  #education-child{
+    background-color: antiquewhite;
+  }
+  .donation-you{
+    width: 50%;
+    font-size: 25px;
+    padding-left: 5%;
+    margin-top: 5%;
+    padding-right: 5%;
+  }
+  .donation-you img{
+    width: 80%;
+  }
+  .how-button{
+    text-decoration: none;
+    background-color: rgb(17, 0, 255);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+  }
+  .my-up{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .form-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800%;
+    width: 500%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    box-shadow: 20px 20px 25px blanchedalmond;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .form-box input{
+    font-size: 30px;
+    color: black;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background-color: lightgrey;
+    border-radius: 5%;
+    font-weight: 700;
+  }
+  .form-box button{
+    color: white;
+    padding: 15px 20px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5%;
+    font-weight: 700;
+    background-color: rgb(21, 0, 255);
+  }
+  .last-part{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+    color: white;
+    background-color: black;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+  }
